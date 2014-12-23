@@ -21,7 +21,7 @@
 	void exponent(float, float);
 
 	void fibonacci(int);
-int main ()
+int main () 
 {
 	//establish variables
 	float add1 = 0;
