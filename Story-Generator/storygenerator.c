@@ -1,4 +1,4 @@
-// Fifth Program: Story Generator
+// Story Generator
 // Author: Paul Maddox 
 // Date: 2/11/14
 
