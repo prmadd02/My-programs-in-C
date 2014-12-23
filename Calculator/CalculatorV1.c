@@ -4,7 +4,7 @@
 
 #include<stdio.h>
 
-int main ()
+int main () 
 {
 	//establish variables
 	float add1 = 0;
