@@ -1,4 +1,4 @@
-// Third Program: Simple Calculator
+// Simple Calculator
 // Author: Paul Maddox
 // Date: 1/23/2014
 
