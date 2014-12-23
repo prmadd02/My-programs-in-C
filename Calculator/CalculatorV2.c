@@ -1,4 +1,4 @@
-// Fourth Program: Advanced Calculator
+// Advanced Calculator
 // Author: Paul Maddox
 // Date: 1/30/2014
 
