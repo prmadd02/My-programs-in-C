@@ -1,4 +1,4 @@
-// Eighth Program: Advanced PhoneBook
+// Advanced PhoneBook
 // Author: Paul Maddox 
 // Date: 3/5/14
 
