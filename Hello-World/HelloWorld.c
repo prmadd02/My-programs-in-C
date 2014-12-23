@@ -1,6 +1,6 @@
-// First Program: Hello World in C
-//Author: Paul Maddox
-//1/15/14
+// Hello World in C
+// Author: Paul Maddox
+// 1/15/14
 
 
 #include <stdio.h>
