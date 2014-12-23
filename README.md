@@ -1,4 +1,4 @@
-Hello-World-in-C
+My Programs in C
 ================
 
-My first program in C 
+These are my programs that I have written in C 
