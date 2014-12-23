@@ -1,4 +1,4 @@
-// Sixth Program: PhoneBook
+// PhoneBook
 // Author: Paul Maddox 
 // Date: 2/25/14
     
