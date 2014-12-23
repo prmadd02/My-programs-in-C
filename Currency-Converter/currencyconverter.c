@@ -1,4 +1,4 @@
-// Second Program: Currency Converter
+// Currency Converter
 // Author: Paul Maddox
 // Date: 01/16/2014
 
